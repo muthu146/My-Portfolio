@@ -149,7 +149,7 @@ dt {
 .table-wrapper {
     overflow-x: auto;
     -ms-overflow-style: none;
-    scrollbar-width: none;
+    scrollbar-width: none ;
 }
 
 .table-wrapper::-webkit-scrollbar {
