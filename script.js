@@ -33,3 +33,5 @@ function changeMode() {
     th.classList.toggle("light-toggle");
 
 }
+
+modeToggle.addEventListener("click", changeMode);
