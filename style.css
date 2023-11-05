@@ -109,8 +109,8 @@ dt {
 }
 
 #profile-img {
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     background: url("image.jpg") no-repeat;
     background-size: 300px 300px;
