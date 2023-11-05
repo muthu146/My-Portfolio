@@ -109,11 +109,11 @@ dt {
 }
 
 #profile-img {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     background: url("image.jpg") no-repeat;
-    background-size: 300px 300px;
+    background-size: 250px 250px;
     background-position-x: -50px;
     /* border: 3px solid #585858; */
 }
